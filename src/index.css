@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "ITCAvant";
+  src: local("ITCAvant"),
+    url(./fonts/ITCAvantGardeGothicBold.otf) format("truetype");
+}
+
+@font-face {
+  font-family: "ITCAvantMedium";
+  src: local("ITCAvantMedium"),
+    url(./fonts/ITCAvantGardeGothicMedium.otf) format("truetype");
+}
+
+@font-face {
+  font-family: "HarlowItalic";
+  src: local("HarlowItalic"),
+    url(./fonts/HarlowSolidItalicItalic.ttf) format("truetype");
+}
+
+body {
+  margin: 0;
+  font-family: ITCAvant, bold;
+  background: rgb(7, 4, 53);
+  background: linear-gradient(rgba(7, 4, 53, 1) 41%, rgba(0, 0, 93, 1) 100%);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: ITCAvant, bold;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

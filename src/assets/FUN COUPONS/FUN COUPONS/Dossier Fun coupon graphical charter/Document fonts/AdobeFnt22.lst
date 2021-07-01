@@ -1,0 +1,76 @@
+%!Adobe-FontList 1.22
+%Locale:0x40c
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AcuminVariableConcept
+FamilyName:Acumin Variable Concept
+StyleName:Default
+FullName:Acumin Variable Concept Default
+MenuName:Acumin Variable Concept
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Admin\OneDrive\Bureau\Dossier Fun coupon graphical charter\Document fonts\AcuminVariableConcept.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:CFF2VariableFont
+FileLength:1029036
+FileModTime:1615199380
+WeightClass:275
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Acumin Variable Concept
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HarlowSolid
+FamilyName:Harlow Solid Italic
+StyleName:Italic
+FullName:Harlow Solid Italic
+MenuName:Harlow Solid Italic
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Admin\OneDrive\Bureau\Dossier Fun coupon graphical charter\Document fonts\HARLOWSI.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56596
+FileModTime:1589342708
+WeightClass:400
+WidthClass:6
+AngleClass:0
+NameArray:0,Mac,4,Harlow Solid Italic
+NameArray:0,Win,1,Harlow Solid Italic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Admin\OneDrive\Bureau\Dossier Fun coupon graphical charter\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:1615199381
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+

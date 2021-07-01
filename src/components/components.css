@@ -1,0 +1,53 @@
+.connect {
+  text-transform: none;
+  border-radius: 5px;
+  background-color: #c04e88;
+  color: #3d1e4d;
+  height: 35px;
+  width: 100px;
+  border: none;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.connectdisabled {
+  text-transform: none;
+  border-radius: 5px;
+  background-color: grey;
+  color: #3d1e4d;
+  height: 35px;
+  width: 100px;
+  border: none;
+  margin-right: 10px;
+}
+
+.connectLang {
+  text-transform: capitalize;
+  color: #c04e88;
+}
+
+.selectitems {
+  position: absolute;
+  background: #323159 !important;
+  padding: 10px;
+  text-align: center;
+  top: 100%;
+  left: 0;
+  right: 0;
+  z-index: 99;
+}
+.selectitems:hover {
+  background: #323159 !important;
+}
+
+.buyInput {
+  width: 85%;
+  padding: 3px;
+  height: 44.5px;
+  border-radius: 5px;
+  font-family: ITCAvant;
+  font-size: 16px;
+  text-align: center;
+  background: #b4ffa4;
+  border: none;
+}

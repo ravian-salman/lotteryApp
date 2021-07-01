@@ -1,0 +1,186 @@
+.tokenProgressMain {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.rewardimage {
+  background-image: url("../assets//reward.png");
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 160px;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  margin-right: 100px;
+}
+.rewardprice {
+  background-image: url("../assets//rewardprice.png");
+  background-repeat: no-repeat;
+  width: 80%;
+  height: 160px;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+}
+
+.rewardtext {
+  font-size: 32px;
+  font-weight: 600;
+  color: #060656;
+}
+
+.rewardpricetext {
+  font-size: 3.2rem;
+  font-weight: 600;
+  color: #b4ffa4;
+}
+
+.rewardcenter {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.headtext {
+  color: white;
+}
+
+.infoicon {
+  background: #b4ffa4;
+  border-radius: 50px;
+  padding: 10px;
+  margin-top: 50px;
+  width: 50px;
+  height: 50px;
+  color: black;
+  font-size: 20px;
+  font-weight: 600;
+  text-align: center;
+}
+.claim {
+  width: 100px;
+  height: 30px;
+  border-radius: 6px;
+  background: transparent;
+  color: white;
+  border: 1px solid white;
+  font-size: 14px;
+  cursor: pointer;
+}
+.claim:hover {
+  background-color: #b4ffa4;
+  color: black;
+}
+
+.exchangeCard {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.exchangeTitle {
+  font-size: 20px;
+  font-family: ITCAvant, bold;
+}
+
+.fromCard {
+  border-radius: 10px;
+  background: #4c4b70;
+  margin: 0px 20px 0px 20px;
+  padding: 20px;
+}
+
+.fromSelect {
+  background: transparent;
+  border: none;
+  width: 100%;
+  font-size: 14px;
+  cursor: pointer;
+  text-align: center;
+  /* background: url(http://imgur.com/MJyZM.png) 0 0 no-repeat; */
+  /* -webkit-appearance: none; */
+  color: #a2ffe2;
+}
+
+.select-items {
+  position: absolute;
+  background: #323159;
+  padding: 10px;
+  text-align: center;
+  top: 100%;
+  left: 0;
+  right: 0;
+  z-index: 99;
+}
+.select-items:hover {
+  background: #323159;
+}
+
+.unlockButton {
+  background: #a2ffe2;
+  color: #0e0c37;
+  width: 100%;
+  align-self: center;
+  border-radius: 20px;
+  box-shadow: none;
+  margin: 0px 30px 20px 30px;
+  height: 50px;
+  cursor: pointer;
+  font-family: ITCAvant, bold;
+  border: none;
+}
+
+.centerArrow {
+  margin-top: -10px;
+  display: flex;
+  justify-content: center;
+  height: 10px;
+}
+
+.exchangeIcon {
+  width: 25px;
+  margin-top: 15px;
+  color: #4c4b70;
+}
+
+.exchangeIconarrow {
+  width: 25px;
+  margin-top: 1px;
+  color: #4c4b70;
+}
+.timer {
+  color: #a2ffe2;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin: 10px;
+}
+
+.timer div {
+  text-align: center;
+}
+
+.timer span {
+  font-size: 32px;
+  border: 1px solid #a2ffe2;
+  border-radius: 10px;
+  color: #a2ffe2;
+  padding: 10px;
+  margin: 10px;
+}
+
+.fromInput {
+  background: transparent;
+  border: none;
+  color: #a2ffe2;
+  font-size: 26px;
+  width: 100%;
+}
+input:focus {
+  outline: none;
+}

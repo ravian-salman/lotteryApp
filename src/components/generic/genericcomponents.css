@@ -1,0 +1,75 @@
+.tokenprogress {
+  padding: 0px 25px 25px 10px;
+  background-color: #1d1c55;
+  border-radius: 15px;
+  margin: 15px;
+  width: 100%;
+}
+
+.lotteryticket {
+  padding: 0px 50px 25px;
+  background-color: #1d1c55;
+  border-radius: 15px;
+  margin: 15px;
+  width: 100%;
+}
+
+.yourtickets {
+  font-size: 0.7rem;
+  font-weight: 400;
+  margin: 1rem;
+}
+.lotteryticketbg {
+  /* background-image: url("../../assets/lotteryticket.png");
+  background-repeat: no-repeat;
+  height: 169px; */
+  width: 100%;
+  text-align: center;
+  color: white;
+  object-fit: cover;
+}
+
+.lotteryhead {
+  font-size: 1.4rem;
+  font-weight: 500;
+  color: #7c2afa;
+}
+
+.lotteryprice {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: #b4ffa4;
+}
+.ticketPrice {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #a2ffe2;
+}
+
+.downarrows {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.fcPrice {
+  padding-top: 10px;
+  color: #c04e88;
+}
+/* progressgradient:   */
+/* background: rgb(123,50,249); */
+/* background: linear-gradient(90deg, rgba(123,50,249,1) 0%, rgba(123,120,240,1) 35%, rgba(158,246,227,1) 100%);  */
+
+/* navcolor:#26234a */
+/* navsign:#c04e88 */
+
+/* sidebarcolor:#21215e */
+/* sidebartext:#7d5c7f */
+/* sidebartextactive: #c04e88 */
+
+/* tabhighlight:#a2ffe2 */
+/* tabinactive:#8784e0 */
+
+/* indexcolor:#8825f4 */
+/* iconcolor:#a9e5b5 */
+/* ticketcolor: #08064f */

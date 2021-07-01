@@ -1,0 +1,990 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#backgroundProject {
+  left: 0px;
+  top: 0px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  /* width: 1100px; */
+  height: 5436px;
+  overflow: hidden;
+  z-index: 0;
+  color: white;
+  font-family: ITCAvantMedium;
+}
+
+#Arrireplan {
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  width: 1100px;
+  height: 5436px;
+  z-index: 1;
+}
+
+#Objetdynamiquevector {
+  left: -10px;
+  top: -36px;
+  position: absolute;
+  width: 1120px;
+  height: 5505px;
+  z-index: 2;
+}
+
+#MenudeG {
+  left: -76px;
+  top: -25px;
+  position: absolute;
+  width: 289px;
+  height: 5549px;
+  z-index: 3;
+}
+
+#layer_100 {
+  left: 95px;
+  top: 687px;
+  position: absolute;
+  width: 41px;
+  height: 14px;
+  z-index: 4;
+}
+
+#Casesmenu {
+  left: -9px;
+  top: 69px;
+  position: absolute;
+  width: 256px;
+  height: 325px;
+  z-index: 5;
+}
+
+#Reward {
+  left: 30px;
+  top: 564px;
+  position: absolute;
+  width: 157px;
+  height: 73px;
+  z-index: 6;
+}
+
+#Func {
+  left: 35px;
+  top: 674px;
+  position: absolute;
+  width: 38px;
+  height: 38px;
+  z-index: 7;
+}
+
+#Objetdynamiquevector_0 {
+  left: 44px;
+  top: 90px;
+  position: absolute;
+  width: 97px;
+  height: 280px;
+  z-index: 8;
+}
+
+#MenuduH {
+  left: 213px;
+  top: -56px;
+  position: absolute;
+  width: 1100px;
+  height: 125px;
+  z-index: 9;
+}
+
+#EN {
+  left: 1040px;
+  top: 22px;
+  position: absolute;
+  width: 23px;
+  height: 29px;
+  z-index: 10;
+}
+
+#Connect {
+  left: 926px;
+  top: 23px;
+  position: absolute;
+  width: 93px;
+  height: 25px;
+  z-index: 11;
+}
+
+#LogoFuncoupons {
+  left: 38px;
+  top: 18px;
+  position: absolute;
+  width: 207px;
+  height: 34px;
+  z-index: 12;
+}
+
+#Rectangle1 {
+  left: 409px;
+  top: 1213px;
+  position: absolute;
+  width: 143px;
+  height: 77px;
+  z-index: 13;
+}
+
+#Rectangle1copie3 {
+  left: 409px;
+  top: 1326px;
+  position: absolute;
+  width: 143px;
+  height: 77px;
+  z-index: 14;
+}
+
+#Rectangle1copie4 {
+  left: 595px;
+  top: 1325px;
+  position: absolute;
+  width: 143px;
+  height: 77px;
+  z-index: 15;
+}
+
+#Rectangle1copie {
+  left: 594px;
+  top: 1213px;
+  position: absolute;
+  width: 143px;
+  height: 77px;
+  z-index: 16;
+}
+
+#Rectangle1copie2 {
+  left: 780px;
+  top: 1213px;
+  position: absolute;
+  width: 143px;
+  height: 77px;
+  z-index: 17;
+}
+
+#Rectangle1copie5 {
+  left: 779px;
+  top: 1325px;
+  position: absolute;
+  width: 143px;
+  height: 77px;
+  z-index: 18;
+}
+
+#HighHouseEdgeCostsac {
+  left: 323px;
+  top: 968px;
+  position: absolute;
+  width: 314px;
+  height: 57px;
+  z-index: 19;
+}
+
+#HighHouseEdgecostswi {
+  left: 683px;
+  top: 965px;
+  position: absolute;
+  width: 314px;
+  height: 43px;
+  z-index: 20;
+}
+
+#Identificationplayer {
+  left: 324px;
+  top: 861px;
+  position: absolute;
+  width: 292px;
+  height: 57px;
+  z-index: 21;
+}
+
+#Identificationplayer_0 {
+  left: 683px;
+  top: 858px;
+  position: absolute;
+  width: 323px;
+  height: 56px;
+  z-index: 22;
+}
+
+#TransparencyFairness {
+  left: 321px;
+  top: 770px;
+  position: absolute;
+  width: 324px;
+  height: 28px;
+  z-index: 23;
+}
+
+#TransparencyFairness_0 {
+  left: 684px;
+  top: 770px;
+  position: absolute;
+  width: 306px;
+  height: 42px;
+  z-index: 24;
+}
+
+#Securitycentraliseds {
+  left: 320px;
+  top: 685px;
+  position: absolute;
+  width: 302px;
+  height: 12px;
+  z-index: 25;
+}
+
+#Securitywiththeblock {
+  left: 684px;
+  top: 684px;
+  position: absolute;
+  width: 282px;
+  height: 40px;
+  z-index: 26;
+}
+
+#Ligne1 {
+  left: 298px;
+  top: 663px;
+  position: absolute;
+  width: 722px;
+  height: 4px;
+  z-index: 27;
+}
+
+#Ligne1_0 {
+  left: 299px;
+  top: 745px;
+  position: absolute;
+  width: 722px;
+  height: 4px;
+  z-index: 28;
+}
+
+#Ligne1_1 {
+  left: 298px;
+  top: 833px;
+  position: absolute;
+  width: 722px;
+  height: 4px;
+  z-index: 29;
+}
+
+#Ligne1_2 {
+  left: 299px;
+  top: 940px;
+  position: absolute;
+  width: 722px;
+  height: 4px;
+  z-index: 30;
+}
+
+#FUNCOUPONSPitch {
+  left: 556px;
+  top: 185px;
+  position: absolute;
+  /* width: 223px; */
+  height: 16px;
+  z-index: 31;
+}
+
+#Introduction {
+  left: 597px;
+  top: 317px;
+  position: absolute;
+  width: 127px;
+  height: 17px;
+  z-index: 32;
+}
+
+#TraditionalvsFunCoup {
+  left: 473px;
+  top: 547px;
+  position: absolute;
+  width: 384px;
+  height: 20px;
+  z-index: 33;
+}
+
+#Insteadofcreatingacl {
+  left: 458px;
+  top: 2440px;
+  position: absolute;
+  width: 421px;
+  height: 148px;
+  text-align: center;
+  font-size: 12px;
+  z-index: 34;
+}
+
+#HowtheFunCouponsLott {
+  left: 554px;
+  top: 2348px;
+  position: absolute;
+  width: 232px;
+  height: 45px;
+  z-index: 35;
+  text-align: center;
+}
+
+#DiscoveringtheFunCou {
+  left: 452px;
+  top: 3712px;
+  position: absolute;
+  width: 424px;
+  height: 126px;
+  z-index: 36;
+  text-align: center;
+}
+
+#ExpandFun {
+  left: 608px;
+  top: 3642px;
+  position: absolute;
+  width: 122px;
+  height: 20px;
+  z-index: 37;
+}
+
+#Roadmap {
+  left: 616px;
+  top: 3945px;
+  position: absolute;
+  width: 105px;
+  height: 20px;
+  z-index: 38;
+}
+
+#Project4thto10th18toshare10 {
+  left: 726px;
+  top: 2817px;
+  position: absolute;
+  width: 147px;
+  height: 72px;
+  z-index: 39;
+}
+
+#Project1stWinner502ndWinner {
+  left: 507px;
+  top: 2818px;
+  position: absolute;
+  width: 141px;
+  height: 60px;
+  z-index: 40;
+}
+
+#Thejackpotdividing {
+  left: 611px;
+  top: 2756px;
+  position: absolute;
+  width: 131px;
+  height: 13px;
+  z-index: 41;
+}
+
+#DistributionLotterie {
+  left: 557px;
+  top: 2689px;
+  position: absolute;
+  width: 215px;
+  height: 17px;
+  z-index: 42;
+}
+
+#LotteryMechanismOver {
+  left: 520px;
+  top: 2995px;
+  position: absolute;
+  width: 307px;
+  height: 20px;
+  z-index: 43;
+}
+
+#FunCouponsisthenextg {
+  left: 453px;
+  top: 385px;
+  position: absolute;
+  text-align: center;
+  height: 57px;
+  z-index: 44;
+}
+
+#HighChanceLotteries {
+  left: 441px;
+  top: 1239px;
+  position: absolute;
+  width: 90px;
+  height: 25px;
+  z-index: 45;
+}
+
+#DecentralizedTrustwo {
+  left: 618px;
+  top: 1231px;
+  position: absolute;
+  width: 118px;
+  height: 40px;
+  z-index: 46;
+}
+
+#Experience {
+  left: 810px;
+  top: 1354px;
+  position: absolute;
+  width: 61px;
+  height: 12px;
+  z-index: 47;
+}
+
+#Rectangle1copie6 {
+  left: 444px;
+  top: 3068px;
+  position: absolute;
+  width: 143px;
+  height: 77px;
+  z-index: 48;
+}
+
+#YourMetamaskWallet {
+  left: 467px;
+  top: 3089px;
+  position: absolute;
+  width: 99px;
+  height: 26px;
+  text-align: center;
+  z-index: 49;
+}
+
+#ChangeyourBNBoryourU {
+  left: 327px;
+  top: 3191px;
+  position: absolute;
+  width: 158px;
+  height: 23px;
+  z-index: 50;
+}
+
+#Allticketssell {
+  left: 839px;
+  top: 3167px;
+  position: absolute;
+  width: 66px;
+  height: 8px;
+  z-index: 51;
+}
+
+#BSCSmartcontractpick {
+  left: 834px;
+  top: 3293px;
+  position: absolute;
+  width: 138px;
+  height: 22px;
+  z-index: 52;
+}
+
+#Winnerscanclaimedthe {
+  left: 840px;
+  top: 3419px;
+  position: absolute;
+  width: 134px;
+  height: 35px;
+  z-index: 53;
+}
+
+#Winnersclaimedtheirr {
+  left: 534px;
+  top: 3475px;
+  position: absolute;
+  width: 130px;
+  height: 33px;
+  z-index: 54;
+}
+
+#PlayinFUNC {
+  left: 629px;
+  top: 3094px;
+  position: absolute;
+  width: 65px;
+  height: 10px;
+  z-index: 55;
+}
+
+#Rectangle1copie8 {
+  left: 736px;
+  top: 3068px;
+  position: absolute;
+  width: 143px;
+  height: 77px;
+  z-index: 56;
+}
+
+#FUNCLotteriesBSCBloc {
+  text-align: center;
+  left: 758px;
+  top: 3087px;
+  position: absolute;
+  width: 100px;
+  height: 26px;
+  z-index: 57;
+}
+
+#Rectangle1copie9 {
+  left: 736px;
+  top: 3199px;
+  position: absolute;
+  width: 143px;
+  height: 77px;
+  z-index: 58;
+}
+
+#LotteryFinished {
+  left: 759px;
+  top: 3221px;
+  position: absolute;
+  width: 98px;
+  height: 12px;
+  z-index: 59;
+  text-align: center;
+}
+
+#Rectangle1copie10 {
+  left: 738px;
+  top: 3330px;
+  position: absolute;
+  width: 143px;
+  height: 77px;
+  z-index: 60;
+}
+
+#WinnersDeclared {
+  left: 781px;
+  top: 3349px;
+  position: absolute;
+  width: 58px;
+  height: 26px;
+  z-index: 61;
+  text-align: center;
+}
+
+#Rectangle1copie11 {
+  left: 738px;
+  top: 3461px;
+  position: absolute;
+  width: 143px;
+  height: 77px;
+  z-index: 62;
+}
+
+#Winnersreceivetheirp {
+  left: 759px;
+  top: 3480px;
+  position: absolute;
+  width: 105px;
+  height: 27px;
+  z-index: 63;
+  text-align: center;
+}
+
+#Rectangle1copie7 {
+  left: 444px;
+  top: 3258px;
+  position: absolute;
+  width: 143px;
+  height: 77px;
+  z-index: 64;
+}
+
+#FunCouponsExchange {
+  left: 475px;
+  top: 3279px;
+  position: absolute;
+  width: 83px;
+  height: 28px;
+  z-index: 65;
+  text-align: center;
+}
+
+#HighPerformanceLowFe {
+  left: 799px;
+  top: 1231px;
+  position: absolute;
+  width: 115px;
+  height: 40px;
+  z-index: 66;
+}
+
+#VotingToken {
+  left: 442px;
+  top: 1359px;
+  position: absolute;
+  width: 77px;
+  height: 13px;
+  z-index: 67;
+}
+
+#EcoFriendly {
+  left: 630px;
+  top: 1358px;
+  position: absolute;
+  width: 74px;
+  height: 12px;
+  z-index: 68;
+}
+
+#HighChanceLotteriesU {
+  left: 447px;
+  top: 1571px;
+  position: absolute;
+  width: 434px;
+  text-align: center;
+  height: 672px;
+  z-index: 69;
+}
+
+#FunCouponsFeatures {
+  left: 552px;
+  top: 1501px;
+  position: absolute;
+  width: 235px;
+  height: 20px;
+  z-index: 70;
+}
+
+#FunCouponsOverview {
+  left: 542px;
+  top: 1148px;
+  position: absolute;
+  width: 246px;
+  height: 20px;
+  z-index: 71;
+}
+
+#TraditionalOnlineLot {
+  left: 321px;
+  top: 628px;
+  position: absolute;
+  height: 14px;
+  z-index: 72;
+}
+
+#FunCouponsSolution {
+  left: 689px;
+  top: 628px;
+  position: absolute;
+  height: 16px;
+  z-index: 73;
+}
+
+#Ligne2 {
+  left: 662px;
+  top: 614px;
+  position: absolute;
+  width: 4px;
+  height: 432px;
+  z-index: 74;
+}
+
+#Objetdynamiquevector_1Project {
+  left: 659px;
+  top: 2814px;
+  position: absolute;
+  width: 22px;
+  height: 68px;
+  z-index: 75;
+}
+
+#line {
+  left: 615px;
+  top: 4017px;
+  position: absolute;
+  width: 129px;
+  height: 1939px;
+  z-index: 76;
+}
+
+#pt1 {
+  left: 652px;
+  top: 4162px;
+  position: absolute;
+  width: 21px;
+  height: 21px;
+  z-index: 77;
+}
+
+#pt3 {
+  left: 719px;
+  top: 4384px;
+  position: absolute;
+  width: 21px;
+  height: 21px;
+  z-index: 78;
+}
+
+#pt5 {
+  left: 706px;
+  top: 4631px;
+  position: absolute;
+  width: 21px;
+  height: 21px;
+  z-index: 79;
+}
+
+#pt7 {
+  left: 635px;
+  top: 4827px;
+  position: absolute;
+  width: 21px;
+  height: 21px;
+  z-index: 80;
+}
+
+#pt10 {
+  left: 668px;
+  top: 5121px;
+  position: absolute;
+  width: 21px;
+  height: 21px;
+  z-index: 81;
+}
+
+#SeedQ42020 {
+  left: 707px;
+  top: 4164px;
+  position: absolute;
+  width: 97px;
+  height: 10px;
+  z-index: 82;
+}
+
+#PrelaunchQ12021 {
+  left: 565px;
+  top: 4388px;
+  position: absolute;
+  width: 123px;
+  height: 11px;
+  z-index: 83;
+}
+
+#FunCouponsresearchan {
+  left: 367px;
+  top: 4165px;
+  position: absolute;
+  width: 253px;
+  height: 71px;
+  z-index: 84;
+}
+
+#DevelopmentQ42021 {
+  left: 719px;
+  top: 5127px;
+  position: absolute;
+  width: 147px;
+  height: 12px;
+  z-index: 85;
+}
+
+#FUNClistingsLaunchin {
+  left: 425px;
+  top: 5124px;
+  position: absolute;
+  width: 210px;
+  height: 130px;
+  z-index: 86;
+}
+
+#TestQ22021 {
+  left: 755px;
+  top: 4637px;
+  position: absolute;
+  width: 86px;
+  height: 10px;
+  z-index: 87;
+}
+
+#TestnetlaunchStartin {
+  left: 452px;
+  top: 4635px;
+  position: absolute;
+  width: 217px;
+  height: 43px;
+  z-index: 88;
+}
+
+#BuildinguptheteamAct {
+  left: 771px;
+  top: 4388px;
+  position: absolute;
+  width: 135px;
+  height: 103px;
+  z-index: 89;
+}
+
+#LaunchQ32021 {
+  left: 494px;
+  top: 4832px;
+  position: absolute;
+  width: 108px;
+  height: 11px;
+  z-index: 90;
+}
+
+#WebsitelaunchLaunchi {
+  left: 691px;
+  top: 4830px;
+  position: absolute;
+  width: 271px;
+  height: 147px;
+  z-index: 91;
+}
+
+#Rectangle2Project {
+  left: 1213px;
+  top: 3765px;
+  position: absolute;
+  width: 128px;
+  height: 107px;
+  z-index: 92;
+}
+
+#Rectangle2copieProject {
+  left: 1150px;
+  top: 3929px;
+  position: absolute;
+  width: 128px;
+  height: 56px;
+  z-index: 93;
+}
+
+#Ligne3 {
+  left: 614px;
+  top: 3105px;
+  position: absolute;
+  width: 96px;
+  height: 4px;
+  z-index: 94;
+}
+
+#Triangle1 {
+  left: 697px;
+  top: 3111px;
+  position: absolute;
+  width: 19px;
+  height: 16px;
+  z-index: 95;
+}
+
+#Triangle1_0 {
+  left: 554px;
+  top: 3149px;
+  position: absolute;
+  width: 19px;
+  height: 19px;
+  z-index: 96;
+}
+
+#Triangle1copie21 {
+  left: 798px;
+  top: 3311px;
+  position: absolute;
+  width: 16px;
+  height: 19px;
+  z-index: 97;
+}
+
+#Triangle1copie21_0 {
+  left: 798px;
+  top: 3442px;
+  position: absolute;
+  width: 16px;
+  height: 19px;
+  z-index: 98;
+}
+
+#Triangle1copie21_1 {
+  left: 798px;
+  top: 3180px;
+  position: absolute;
+  width: 16px;
+  height: 19px;
+  z-index: 99;
+}
+
+#Groupe3copie {
+  left: 522px;
+  top: 3163px;
+  position: absolute;
+  width: 13px;
+  height: 79px;
+  z-index: 100;
+}
+
+#Groupe3copie_0 {
+  left: 497px;
+  top: 3163px;
+  position: absolute;
+  width: 13px;
+  height: 79px;
+  z-index: 101;
+}
+
+#Ligne4 {
+  left: 804px;
+  top: 3145px;
+  position: absolute;
+  width: 4px;
+  height: 46px;
+  z-index: 102;
+}
+
+#Ligne4copie {
+  left: 804px;
+  top: 3280px;
+  position: absolute;
+  width: 4px;
+  height: 46px;
+  z-index: 103;
+}
+
+#Ligne4copie2 {
+  left: 804px;
+  top: 3409px;
+  position: absolute;
+  width: 4px;
+  height: 46px;
+  z-index: 104;
+}
+
+#Ligne5 {
+  left: 668px;
+  top: 3501px;
+  position: absolute;
+  width: 66px;
+  height: 4px;
+  z-index: 105;
+}
+
+#Ligne6 {
+  left: 620px;
+  top: 3221px;
+  position: absolute;
+  width: 4px;
+  height: 246px;
+  z-index: 106;
+}
+
+#Ligne7 {
+  left: 560px;
+  top: 3156px;
+  position: absolute;
+  width: 63px;
+  height: 66px;
+  z-index: 107;
+}

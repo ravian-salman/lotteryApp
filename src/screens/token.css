@@ -1,0 +1,506 @@
+#background {
+  left: 0px;
+  top: 0px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  /* width: 1100px; */
+  height: 3017px;
+  overflow: hidden;
+  z-index: 0;
+  font-family: ITCAvantMedium;
+}
+
+#Arrireplan {
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  width: 1100px;
+  height: 3017px;
+  z-index: 1;
+}
+
+#Objetdynamiquevector {
+  left: -10px;
+  top: -13px;
+  position: absolute;
+  width: 1120px;
+  height: 3049px;
+  z-index: 2;
+}
+
+#MenudeG {
+  left: -76px;
+  top: -25px;
+  position: absolute;
+  width: 289px;
+  height: 3061px;
+  z-index: 3;
+}
+
+#layer_100 {
+  left: 95px;
+  top: 687px;
+  position: absolute;
+  width: 41px;
+  height: 14px;
+  z-index: 4;
+}
+
+#Casesmenu {
+  left: -9px;
+  top: 69px;
+  position: absolute;
+  width: 256px;
+  height: 325px;
+  z-index: 5;
+}
+
+#Reward {
+  left: 30px;
+  top: 564px;
+  position: absolute;
+  width: 157px;
+  height: 73px;
+  z-index: 6;
+}
+
+#Func {
+  left: 35px;
+  top: 674px;
+  position: absolute;
+  width: 38px;
+  height: 38px;
+  z-index: 7;
+}
+
+#Objetdynamiquevector_0 {
+  left: 45px;
+  top: 90px;
+  position: absolute;
+  width: 97px;
+  height: 281px;
+  z-index: 8;
+}
+
+#MenuduH {
+  left: 213px;
+  top: -56px;
+  position: absolute;
+  width: 1100px;
+  height: 125px;
+  z-index: 9;
+}
+
+#EN {
+  left: 1040px;
+  top: 22px;
+  position: absolute;
+  width: 23px;
+  height: 29px;
+  z-index: 10;
+}
+
+#Connect {
+  left: 926px;
+  top: 23px;
+  position: absolute;
+  width: 93px;
+  height: 25px;
+  z-index: 11;
+}
+
+#LogoFuncoupons {
+  left: 38px;
+  top: 18px;
+  position: absolute;
+  width: 207px;
+  height: 34px;
+  z-index: 12;
+}
+
+#TokenReleaseSchedule {
+  left: 519px;
+  top: 1645px;
+  position: absolute;
+  width: 258px;
+  height: 17px;
+  z-index: 13;
+}
+
+#TokenReleaseDistribu {
+  left: 469px;
+  top: 1136px;
+  position: absolute;
+  height: 17px;
+  z-index: 14;
+}
+
+#FUNCAllocationDistri {
+  left: 511px;
+  top: 571px;
+  position: absolute;
+  height: 17px;
+  z-index: 15;
+}
+
+#Token75MTotalSupplyHARDCA {
+  left: 372px;
+  top: 674px;
+  position: absolute;
+  /* width: 118px; */
+  height: 41px;
+  z-index: 16;
+  font-size: 12px;
+  color: white;
+}
+
+#SalesDetails {
+  left: 574px;
+  top: 2242px;
+  position: absolute;
+
+  height: 17px;
+  z-index: 17;
+}
+
+#Objetdynamiquevector_1 {
+  left: 303px;
+  top: 1739px;
+  position: absolute;
+  width: 511px;
+  height: 359px;
+  z-index: 18;
+}
+
+#CommunityRoundPublic {
+  left: 883px;
+  top: 1786px;
+  position: absolute;
+  width: 119px;
+  height: 207px;
+  z-index: 19;
+}
+
+#TypeSPLTOKENONBinanc {
+  left: 732px;
+  top: 259px;
+  position: absolute;
+  height: 178px;
+  z-index: 20;
+  color: white;
+  font-size: 12px;
+}
+
+#Bydistributingourpub {
+  left: 308px;
+  top: 263px;
+  position: absolute;
+  height: 145px;
+  z-index: 21;
+  color: white;
+  font-size: 12px;
+  width: 304px;
+}
+
+#Saleparticipantsmayc {
+  left: 303px;
+  top: 2338px;
+  position: absolute;
+  width: 672px;
+  height: 27px;
+  z-index: 22;
+  color: white;
+  font-size: 12px;
+}
+
+#FUNC {
+  left: 263px;
+  top: 1748px;
+  position: absolute;
+  width: 22px;
+  height: 7px;
+  z-index: 23;
+}
+
+#Token25Supplyrasingatotal {
+  left: 652px;
+  top: 678px;
+  position: absolute;
+  width: 334px;
+  height: 296px;
+  z-index: 24;
+  color: white;
+  font-size: 12px;
+}
+
+#FUNCTokenResume {
+  left: 731px;
+  top: 167px;
+  position: absolute;
+  height: 17px;
+  z-index: 25;
+}
+
+#FUNCTokenDistributio {
+  left: 308px;
+  top: 167px;
+  position: absolute;
+  height: 17px;
+  z-index: 26;
+}
+
+#Details {
+  left: 321px;
+  top: 2445px;
+  position: absolute;
+
+  height: 10px;
+  z-index: 27;
+}
+
+#Salesdates {
+  left: 321px;
+  top: 2485px;
+  position: absolute;
+
+  height: 10px;
+  z-index: 28;
+}
+
+#Lockup {
+  left: 322px;
+  top: 2522px;
+  position: absolute;
+
+  height: 12px;
+  z-index: 29;
+}
+
+#Release {
+  left: 321px;
+  top: 2560px;
+  position: absolute;
+
+  height: 10px;
+  z-index: 30;
+}
+
+#PurchaseLimits {
+  left: 321px;
+  top: 2600px;
+  position: absolute;
+
+  height: 11px;
+  z-index: 31;
+}
+
+#Acceptedcurrencies {
+  left: 321px;
+  top: 2675px;
+  position: absolute;
+  height: 12px;
+  z-index: 32;
+}
+
+#ofTotalSupply {
+  left: 321px;
+  top: 2712px;
+  position: absolute;
+  height: 12px;
+  z-index: 33;
+}
+
+#NumofTokens {
+  left: 322px;
+  top: 2750px;
+  position: absolute;
+
+  height: 11px;
+  z-index: 34;
+}
+
+#PriceperToken {
+  left: 321px;
+  top: 2787px;
+  position: absolute;
+
+  height: 12px;
+  z-index: 35;
+}
+
+#CommunityRound {
+  left: 545px;
+  top: 2445px;
+  position: absolute;
+  height: 12px;
+  z-index: 36;
+}
+
+#Token1stJuly2021 {
+  left: 546px;
+  top: 2485px;
+  position: absolute;
+
+  height: 12px;
+  z-index: 37;
+}
+
+#Token4months {
+  left: 545px;
+  top: 2522px;
+  position: absolute;
+  height: 10px;
+  z-index: 38;
+}
+
+#Token1stNovember2021 {
+  left: 546px;
+  top: 2560px;
+  position: absolute;
+
+  height: 11px;
+  z-index: 39;
+}
+
+#Token100min1000max {
+  left: 545px;
+  top: 2600px;
+  position: absolute;
+  height: 32px;
+  z-index: 40;
+}
+
+#BTCETHUSDC {
+  left: 546px;
+  top: 2675px;
+  position: absolute;
+  height: 12px;
+  z-index: 41;
+}
+
+#layer_10 {
+  left: 546px;
+  top: 2712px;
+  position: absolute;
+  height: 10px;
+  z-index: 42;
+}
+
+#Token75M {
+  left: 545px;
+  top: 2750px;
+  position: absolute;
+  height: 12px;
+  z-index: 43;
+}
+
+#layer_08 {
+  left: 545px;
+  top: 2787px;
+  position: absolute;
+  height: 12px;
+  z-index: 44;
+}
+
+#PublicSale {
+  left: 786px;
+  top: 2445px;
+  position: absolute;
+  height: 11px;
+  z-index: 45;
+}
+
+#Token1stAugust2021 {
+  left: 787px;
+  top: 2485px;
+  position: absolute;
+  height: 13px;
+  z-index: 46;
+}
+
+#Token3months {
+  left: 786px;
+  top: 2522px;
+  position: absolute;
+  height: 10px;
+  z-index: 47;
+}
+
+#Token1stNovember2021_0 {
+  left: 787px;
+  top: 2560px;
+  position: absolute;
+
+  height: 11px;
+  z-index: 48;
+}
+
+#Token100min1500max {
+  left: 786px;
+  top: 2600px;
+  position: absolute;
+  height: 32px;
+  z-index: 49;
+}
+
+#BTCETHUSDCcopie {
+  left: 787px;
+  top: 2675px;
+  position: absolute;
+  height: 12px;
+  z-index: 50;
+}
+
+#layer_15 {
+  left: 787px;
+  top: 2712px;
+  position: absolute;
+  height: 10px;
+  z-index: 51;
+}
+
+#Token1125M {
+  left: 787px;
+  top: 2750px;
+  position: absolute;
+  height: 12px;
+  z-index: 52;
+}
+
+#layer_012 {
+  left: 786px;
+  top: 2787px;
+  position: absolute;
+  height: 12px;
+  z-index: 53;
+}
+
+#Objetdynamiquevector_2 {
+  left: 303px;
+  top: 2434px;
+  position: absolute;
+
+  height: 379px;
+  z-index: 54;
+}
+
+#Objetdynamiquevector_3 {
+  left: 301px;
+  top: 738px;
+  position: absolute;
+  width: 259px;
+  height: 259px;
+  z-index: 55;
+}
+
+#TokenSaleTheTokenSal {
+  left: 304px;
+  top: 1231px;
+  position: absolute;
+  width: 704px;
+  height: 267px;
+  z-index: 56;
+  color: white;
+  font-size: 12px;
+}
